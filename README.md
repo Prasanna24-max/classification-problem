@@ -1,1 +1,1 @@
-# datascicnce-with-python
+# ds-with-python
